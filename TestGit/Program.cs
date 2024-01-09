@@ -1,10 +1,8 @@
 ﻿namespace TestGit
 {
-    internal class Program
+    public class Player
     {
-        static void Main(string[] args)
-        {
-            Console.WriteLine("Hello, World!");
-        }
+        public int hp;
+        public void Attack() { }
     }
 }
