@@ -29,9 +29,4 @@ namespace TestGit
     {
         // 작업도중 stash
     }
-
-    public class RevertClass
-    {
-        // revert 테스트용 클래스
-    }
 }
