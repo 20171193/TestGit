@@ -3,7 +3,9 @@
 // commit = 변경사항을 버전에 기록하기
 // diff = 변경과 현재사항 확인
 // stash = 기록되지 않은 내용을 임시저장소에 잠시 보관
-// 
+// restore = 변경내용 취소 (원복)
+// revert = 변경 내용을 반대로 (되돌리기)
+//
 
 namespace TestGit
 {
