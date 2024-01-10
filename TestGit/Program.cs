@@ -60,4 +60,12 @@ namespace TestGit
     {
         // 작업도중 stash
     }
+
+    class Program
+    {
+        static void Main(string[] argc)
+        {
+            Console.WriteLine("몬스터다");
+        }
+    }
 }
